@@ -23,10 +23,10 @@ en:
   menu:
     languages:
       lang: "Jazyk"
-      flag: "flags/Czech.png"
+      flag: "flags/Czech_Republic.png"
   home:
     tagline: 
-      title: "Naučte sa cestu Linux-fu, zadarmo."
+      title: "Nauč sa cestu Linux-fu, zdarma."
     subscribe:
       title: "Odebírat"
       body: "Získejte aktuální informáce o nových kurzech a lekcích!"
@@ -37,7 +37,7 @@ en:
       url: "https://github.com/cindyq/linuxjourney"
     contact:
       title: "Kontakt"
-      body: "Našli ste chybu? Máte stížnost? Poznámku?"
+      body: "Našli jste chybu? Máte stížnost? Poznámku?"
       url_name: "Dejte nám vědět"
       url: "contact@linuxjourney.com"
   courses:
